@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-- 🤔 Exploring news techs and developing software.
+- 🤔 Exploring news techs and software development.
 - 💼 Working as **Technical Support** at <a href="https://unifique.com.br/">Unifique</a>
 - 🌱 Learning about **Node, Javascript, Typescript, Nest, Postegresql and MongoDB**.
 
