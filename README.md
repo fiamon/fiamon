@@ -2,7 +2,7 @@
 
 - 🤔 Exploring news techs and developing software.
 - 💼 Working as **Technical Support** at <a href="https://unifique.com.br/">Unifique</a>
-- 🌱 &nbsp; Learning about **Node, Javascript, Typescript, Nest, Postegresql and MongoDB**.
+- 🌱 Learning about **Node, Javascript, Typescript, Nest, Postegresql and MongoDB**.
 
 <h3>Skills</h3>
 
