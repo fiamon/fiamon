@@ -4,8 +4,6 @@
 - 💼 Working as **Technical Support** at <a href="https://unifique.com.br/">Unifique</a>
 - 🌱 Learning about **Node, Javascript, Typescript, Nest, Postegresql and MongoDB**.
 
-<h3>Skills</h3>
-
 **Development Stack and Tools**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -17,7 +15,6 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![JEST](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
 
 <br/>
 
