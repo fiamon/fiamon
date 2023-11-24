@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <h3>Where you can find me</h3>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fiamon/)
