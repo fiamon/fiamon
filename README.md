@@ -17,9 +17,11 @@
 
 <br/>
 
-<a href="https://github.com/fiamon" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiamon&theme=dracula&show_icons=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/fiamon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiamon&theme=dracula&show_icons=true" />
+  </a>
+</div>
 
 <h3>Where you can find me</h3>
 
