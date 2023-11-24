@@ -1,20 +1,17 @@
 <h3>About me</h3>
 
-- 🤔 Exploring news techs and software development.
+- 🤔 Exploring news techs and software development
 - 💼 Working as **Technical Support** at <a href="https://unifique.com.br/">Unifique</a>
-- 🌱 Learning about **Node, Javascript, Typescript, Nest, Postegresql and MongoDB**.
+- 🌱 Learning about **Golang**
+- 💬 Ask me about **Node.js**, **SQL**, **NoSQL**
 
 <h3>Development Stack and Tools</h3>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![JEST](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,docker,nodejs,nestjs,linux,git,jest,mongodb,postgres,redis" />
+  </a>
+</p>
 
 <br/>
 
