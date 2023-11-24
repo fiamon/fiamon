@@ -5,7 +5,7 @@
 - 🌱 Learning about **Golang**
 - 💬 Ask me about **Node.js**, **SQL**, **NoSQL**
 
-<h3>Development Stack and Tools</h3>
+<h3 align="center">Development Stack and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
