@@ -7,8 +7,6 @@
 
 <h3 align="center">Development Stack and Tools</h3>
 
-<br>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,docker,nodejs,nestjs,linux,git,jest,mongodb,postgres,redis" />
