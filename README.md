@@ -7,6 +7,8 @@
 
 <h3 align="center">Development Stack and Tools</h3>
 
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,docker,nodejs,nestjs,linux,git,jest,mongodb,postgres,redis" />
@@ -15,7 +17,7 @@
 
 <br/>
 
-<a href="https://github.com/fiamon">
+<a href="https://github.com/fiamon" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiamon&theme=dracula&show_icons=true" />
 </a>
 
