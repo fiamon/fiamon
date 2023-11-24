@@ -5,6 +5,8 @@
 - 🌱 Learning about **Golang**
 - 💬 Ask me about **Node.js**, **SQL**, **NoSQL**
 
+<br>
+
 <h3 align="center">Development Stack and Tools</h3>
 
 <p align="center">
@@ -20,6 +22,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiamon&theme=dracula&show_icons=true" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <h3>Where you can find me</h3>
