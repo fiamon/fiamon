@@ -2,7 +2,6 @@
 
 - 🤔 Exploring news techs and software development
 - 💼 Working as **Technical Support** at <a href="https://unifique.com.br/">Unifique</a>
-- 🌱 Learning about **Golang**
 - 💬 Ask me about **Node.js**, **SQL**, **NoSQL**
 
 <br>
