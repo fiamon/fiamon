@@ -1,7 +1,6 @@
 <h3>About me</h3>
 
 - 🤔 Exploring news techs and software development
-- 💼 Working as **Technical Support** at <a href="https://unifique.com.br/">Unifique</a>
 - 💬 Ask me about **Node.js**, **SQL**, **NoSQL**
 
 <br>
